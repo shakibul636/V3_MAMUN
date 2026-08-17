@@ -3,7 +3,7 @@
         "key": "dbln",
         "value": "%7B%2261592847105921%22%3A%22nlVmqatB%22%7D",
         "domain": "facebook.com",
-        "path": "/login/device-based/",
+        "path": "/login/edevice-based/",
         "hostOnly": false,
         "creation": "2026-08-17T16:39:48.773Z",
         "lastAccessed": "2026-08-17T16:39:48.774Z"
